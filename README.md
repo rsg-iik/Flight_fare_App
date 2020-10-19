@@ -1,6 +1,6 @@
-# Flight_fare_App
+# Flight_fare_prediction_app
 
-I have deployed this project on Heroku to predict the flight fare using Random Forest algorithm
+I have deployed this end to end Machine Learning project on Heroku to predict the flight ticket price using Flask web API
 
 The web app can be accessed by following URL:
 
