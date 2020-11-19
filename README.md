@@ -2,6 +2,7 @@
 
 
 [Introduction](#introduction)
+
 [Data Source](#data-source)
 
 [Steps to build App](#steps-to-build-app)
@@ -26,6 +27,7 @@ The objective of this project is to predict the flight ticket price using given 
 https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 # Steps to build App
+
 Data Selection 
  
 Performing Exploratory Data analysis (EDA)
@@ -48,7 +50,9 @@ Hyper parameter Tuning to achieve better accuracy
    2) GridSearchCV
 
 Assign hyperparameters in form of dictionary
+
 Fit the model
+
 Check best parameters and best score
 
 
@@ -62,13 +66,20 @@ Required Files
 
 ── static 
 │   ├── css
-├── template
+
+├── templates
 │   ├── index.html
+
 ├── Procfile
+
 ├── README.md
+
 ├── app.py
+
 ├── Flights-Fare-Prediction-ML.ipynb
+
 ├── rfModelPrediction.pkl
+
 ├── requirements.txt
 
 
